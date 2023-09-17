@@ -1,5 +1,5 @@
 {
-    "name": "kristof/vlc-package",
+    "name": "kkoblos/vlc-package",
     "description": "",
     "autoload": {
         "psr-4": {
