@@ -1,0 +1,16 @@
+{
+    "name": "kristof/vlc-package",
+    "description": "",
+    "autoload": {
+        "psr-4": {
+            "Vlc\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "kkoblos",
+            "email": "kristofkoblos@gmail.com"
+        }
+    ],
+    "require": {}
+}
